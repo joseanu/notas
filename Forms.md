@@ -17,3 +17,7 @@ https://www.elformo.com
 
 http://flipmail.co/
   - 250 envíos al mes.
+
+http://www.enformed.io/
+  - 100 envíos al mes
+  - Esconde la dirección.
