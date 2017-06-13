@@ -1,0 +1,5 @@
+https://askubuntu.com/questions/788457/how-to-install-pgadmin-4-in-server-mode-on-ubuntu-16-04
+
+cd ~/pgadmin4
+source bin/activate
+python ./.virtualenvs/pgadmin4/lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
